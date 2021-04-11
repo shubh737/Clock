@@ -1,6 +1,3 @@
-const { linen } = require("color-name");
-const { Rotate } = require("hammerjs");
-const { arch } = require("os");
 
 var hr,mn,sc
 var hrAngle,mnAngle,scAngle
